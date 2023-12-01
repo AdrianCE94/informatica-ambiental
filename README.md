@@ -1,7 +1,7 @@
 # **PROTECCIÓN MEDIOAMBIENTAL**
 > Información sobre la contaminación ambiental que producen los residuos informáticos y sus consencuencias.
 
-<img src="img/contaminacion ambiental.jpg" alt="Medioambiente" width="450px">
+![portada](img/contaminacion%20ambiental.jpg)
 
 
 ## *ÍNDICE*
