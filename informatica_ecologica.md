@@ -14,6 +14,6 @@
 
 ![Foto_InfoEco](img/3.jpg)
 
-:arrow_right_hook: [GeekFlare] Informatica Ecologica, Objetivos, Impacto que conlleva. https://geekflare.com/es/green-computing-for-sustainable-future/
+:arrow_right_hook: [GeekFlare](https://geekflare.com/es/green-computing-for-sustainable-future/)
 
-:arrow_right_hook:[ChatGPT] https://chat.openai.com/
+:arrow_right_hook:[ChatGPT](https://chat.openai.com/)
