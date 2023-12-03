@@ -24,6 +24,7 @@
 
 
 <!-- ENLACES -->
+## REFERENCIAS
 
 :arrow_right_hook: [Feniss](https://feniss.org/tipos-de-obsolescencia-programada/)
 
