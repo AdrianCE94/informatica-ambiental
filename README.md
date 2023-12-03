@@ -18,9 +18,9 @@
 
 ## AUTORES
 
-:pushpin: [Álvarez Padilla, David Manuel](https://github.com/DavidPadilla24)
-:pushpin: [Cabezuelo Expósito, Adrián](https://github.com/AdrianCE94)
-:pushpin: [David Sánchez Caicedo](https://github.com/davidlinesc)
+*:pushpin: [Álvarez Padilla, David Manuel](https://github.com/DavidPadilla24)
+*:pushpin: [Cabezuelo Expósito, Adrián](https://github.com/AdrianCE94)
+*:pushpin: [David Sánchez Caicedo](https://github.com/davidlinesc)
 
 ## LICENCIA
 
