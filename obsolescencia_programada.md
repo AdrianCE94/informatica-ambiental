@@ -25,10 +25,10 @@
 
 <!-- ENLACES -->
 
-:arrow_right_hook: [Feniss] Obsolencia Programada https://feniss.org/tipos-de-obsolescencia-programada/
+:arrow_right_hook: [Feniss] (https://feniss.org/tipos-de-obsolescencia-programada/)
 
-:arrow_right_hook: [AQUAE] Obsolencia Programada: https://qiarg.org/2020/11/27/comprar-y-tirar-atenta-contra-el-ambiente/
+:arrow_right_hook: [AQUAE] (https://qiarg.org/2020/11/27/comprar-y-tirar-atenta-contra-el-ambiente/)
 
- :arrow_right_hook:[Qiarg] Absolencia Programada impacto climatico https://www.fundacionaquaeorgimpacto-ambiental-obsolescencia-programada/
+ :arrow_right_hook:[Qiarg] (https://www.fundacionaquaeorgimpacto-ambiental-obsolescencia-programada/)
 
- :arrow_right_hook:[ChatGPT] https://chat.openai.com/
+ :arrow_right_hook:[ChatGPT] (https://chat.openai.com/)
