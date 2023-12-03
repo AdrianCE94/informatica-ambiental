@@ -14,7 +14,6 @@
 
 4. [Informática ecológica](informatica_ecologica.md)
 
-5. [Referencias](referencias.md)
 
 
 ## AUTORES
